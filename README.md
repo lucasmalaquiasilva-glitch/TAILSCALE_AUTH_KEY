@@ -1,0 +1,2 @@
+# TAILSCALE_AUTH_KEY
+tskey-auth-kNL41th7sT11CNTRL-osDjyhp4NdXiGtpdvNrFdXM7axpTvQXf
